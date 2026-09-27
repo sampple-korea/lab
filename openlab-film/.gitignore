@@ -1,0 +1,5 @@
+node_modules/
+build/seg_*.mkv
+build/segs.txt
+build/master_444.mkv
+work/
