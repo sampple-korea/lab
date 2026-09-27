@@ -30,5 +30,5 @@ npm install
 pip install numpy scipy imageio-ffmpeg
 python3 music.py                 # build/audio.wav, build/audio_features.json
 node render.js sheet             # work/sheet.png 컨택트 시트
-node render.js full 4            # out/donggo-openlab-2026.mp4 (워커 4개)
+node render.js full 4            # out/donggo-openlab-2026.mp4 (워커 4개, 고비트레이트 마스터)
 ```
